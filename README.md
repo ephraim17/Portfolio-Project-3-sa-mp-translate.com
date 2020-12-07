@@ -1,6 +1,6 @@
 # 🚀 🎉 SA-MP Translate Website 🚀 🎉
 
-SA-MP Translate is tool that translates SA-MP servers to over 80+ languages.
+SA-MP Translate is tool that translates SA-MP servers to over 80+ languages in real time. SA-MP servers use this tool to allow players who don't speak the same language to play and communicate with each other.
 
 
 ## Tech Stack

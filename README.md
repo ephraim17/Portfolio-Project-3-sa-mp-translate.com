@@ -1,8 +1,5 @@
 # 🚀 🎉 SA-MP Translate Website 🚀 🎉
 
-<p align="center">
-  <img width="460" height="300" src="https://www.sa-mp.com/images/logo.gif">
-</p>
 ![San Andreas Multiplayer](https://www.sa-mp.com/images/logo.gif)
 
 - If you don't know what San Andreas Multiplayer (or SA-MP for short) is, a good place to start would be to read [Why A Million People Still Play Multiplayer Grand Theft Auto San Andreas Every Month](https://www.rockpapershotgun.com/2016/09/15/why-a-million-people-still-play-multiplayer-grand-theft-auto-san-andreas-every-month/ "Article"), an article by Richard Moss.

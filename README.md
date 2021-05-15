@@ -11,10 +11,5 @@
 
 ![Image of SA-MP-translate.com landing page](https://imgur.com/HF34z6x.png)
 
-## Tech Stack
-- [x] NodeJS
-- [x] Express
-- [x] Shopify
-
-[Click the link to visit the website!](https://www.sa-mp-translate.com/ "SA-MP-Translate's Homepage")
+[Click the link to visit the website!](https://sa-mp-translate-dev.myshopify.com/ "SA-MP-Translate's Homepage")
 

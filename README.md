@@ -15,3 +15,5 @@
 
 [Click the link to visit the website!](https://sa-mp-translate-dev.myshopify.com/ "SA-MP-Translate's Homepage")
 
+![Image of SA-MP-translate.com Instagram page](https://i.imgur.com/iGC6E1L.png)
+[Click the link to visit the Instagram Page!](https://www.instagram.com/samp_translate/ "SA-MP-Translate's Instagram Page")

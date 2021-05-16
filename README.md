@@ -6,6 +6,7 @@
 
 - However, if you do know what SA-MP is, then you know that the Russian and English speaking communities are the two largest communities on the platform. 
 - Despite their colossal sizes, the Russian and English speaking communities rarely interact with each other at scale because of the language barriers.
+- Because of this, the Russian players play on Russian servers and the English players play on English servers, creating a split in the community.
 - SA-MP Translate's purpose is to break the language barrier in SA-MP by providing world-class translations in SA-MP in real-time.
 - With the SA-MP Translate, Russian and English players can interact with each other in real time without having to know the same language.
 - We believe that by breaking the language barrier in SA-MP we can create a better experience for all the players by boosting server player counts.
